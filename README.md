@@ -18,6 +18,10 @@ In this collection of data science projects, I analyze NHL statistics to naively
 
 <img src="assets/penguins.webp" width="300"/>
 
+## Please Note
+
+In the project title pictures above, there are two different creatures: puffins in the top image, and penguins in the bottom.
+
 ## Let's Connect
 
 Feel free to reach out to me to chat about GPU computing, machine learning, or ice hockey!
