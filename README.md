@@ -4,7 +4,7 @@ As a Computational Geophysics PhD, I specialize in applying machine learning and
 
 ## My Current Projects
 
-### CUDA Kernel Optimization for Image Convolution 
+### [CUDA Kernel Optimization for Image Convolution](https://github.com/alexander-klokov/image-convolution)
 
 This is a personal study project inspired by Simon Boehm's work on optimizing CUDA Matmul Kernels. My goal is to develop a basic image convolution CUDA kernel and enhance it through an iterative process of optimization techniques.
 
@@ -12,7 +12,7 @@ The project's primary objective is to achieve a level of performance comparable 
 
 <img src="assets/puffins_work.png" width="300"/>
 
-### NHL Data Science Projects
+### [NHL Data Science Projects](https://github.com/alexander-klokov/nhl-analyst)
 
 In this collection of data science projects, I analyze NHL statistics to naively make some predictions.
 
