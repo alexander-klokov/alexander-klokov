@@ -2,7 +2,7 @@
 
 This storage mostly contains my study projects, which I'm writing to learn new things, adopt new technologies, and practice some concepts. Within my developer career, I've had different roles. I get the most pleasure when combining math concepts with software development decisions.
 
-## My Current Projects
+## My Recent Projects
 
 ### [CUDA Kernel Optimization for Image Convolution](https://github.com/alexander-klokov/image-convolution)
 
