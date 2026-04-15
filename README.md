@@ -4,6 +4,12 @@ This storage mostly contains my study projects, which I'm writing to learn new t
 
 ## My Recent Projects
 
+### [HPC Image Convoluton: From Brute-Force Baseline to O(1) Performance](https://github.com/alexander-klokov/image-convolution-hpc)
+
+This project is a high-performance computing (HPC) exploration of image convolution, serving as a technical sequel to a previous [optimization of CUDA kernels](https://github.com/alexander-klokov/image-convolution). The objective is to leverage a constant-time $O(1)$ algorithm and AVX2 vectorization to extract maximum performance from the mobile Ryzen 5 platform.
+
+<img src="assets/puffins_work_cpu.png" width="300"/>
+
 ### [CUDA Kernel Optimization for Image Convolution](https://github.com/alexander-klokov/image-convolution)
 
 This is a personal study project inspired by Simon Boehm's work on optimizing CUDA Matmul Kernels. My goal is to develop a basic image convolution CUDA kernel and enhance it through an iterative process of optimization techniques.
